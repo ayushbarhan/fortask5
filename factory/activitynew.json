@@ -1,0 +1,9 @@
+{
+	"name": "activitynew",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcfe33d4-07aa-4863-bc72-f92b0dbc447f",
+		"tenantId": "12c46ad3-9b1a-41e9-aee7-d840f0fe7a9d"
+	}
+}
